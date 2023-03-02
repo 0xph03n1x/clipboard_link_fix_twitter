@@ -1,1 +1,1 @@
-C:\Users\ph03n1x\Desktop\clipboard\clipboard_link_fix_twitter\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\ph03n1x\Desktop\clipboard\clipboard_link_fix_twitter\ConsoleApplication1\x64\Debug\twitter_link_fixer-clipboard_edition.exe
