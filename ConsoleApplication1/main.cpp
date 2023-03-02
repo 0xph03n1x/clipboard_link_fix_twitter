@@ -37,8 +37,23 @@ std::string FixTwitterLink(std::string clipboard_string)
     return fixed_link;
 }
 
+// Figure out how to check if foreground window is discord -> check clipboard
+//void CheckWindowName()
+//{
+//    HWND foreground = GetForegroundWindow();
+//    if (foreground)
+//    {
+//        WCHAR window_title[256];
+//        GetWindowText(foreground, window_title, 256);
+//        std::cout << "Window title " << window_title << std::endl;
+//    }
+//
+//}
+
 int main()
 {
+    //CheckWindowName();
+
     HANDLE clipboard_data;
 
     if (!OpenClipboard(NULL))
